@@ -17,10 +17,10 @@ $translations = array(
 
     'p4' => '<a href="http://www.zanat.net">zanat.net - Cổng thông tin cho truyền thông thiết kế (với Farbumrechner.)</a>',
 
-    'h3' => 'Quyền phủ nhận',
+    'h3' => 'Khuyến cáo',
 
-    'p5' => 'Tác giả của trang web này có quyền không chịu trách nhiệm về tính chất thời, chính xác, đầy đủ hay chất lượng của thông tin cung cấp. khiếu nại trách nhiệm về thiệt hại gây ra bởi việc sử dụng bất kỳ thông tin được cung cấp, bao gồm bất kỳ loại thông tin đó là không đầy đủ hoặc không chính xác, sẽ bị từ chối.',
+    'p5' => 'Tác giả của website này có quyền không chịu trách nhiệm về tính chất thời sự, chính xác, đầy đủ hay chất lượng của thông tin cung cấp. Khiếu nại trách nhiệm về thiệt hại gây ra bởi việc sử dụng bất kỳ thông tin được cung cấp, bao gồm bất kỳ loại thông tin đó là không đầy đủ hoặc không chính xác, sẽ bị từ chối.',
 
-    'p6' => 'Tác giả của trang web này là không chịu trách nhiệm về bất kỳ nội dung được dẫn hay được tham khảo từ trang web này.',
+    'p6' => 'Tác giả của website này là không chịu trách nhiệm về bất kỳ nội dung được trích dẫn hay được tham khảo từ website này.',
 );
 ?>

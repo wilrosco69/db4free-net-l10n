@@ -18,7 +18,7 @@ Xác nhận thay đổi này bằng khác nhấn vào đường dẫn bên dư�
 
 Nếu bạn không phải là người yêu cầu thay đổi mật khẩu tài khoản ở trang db4free.net, hãy bỏ qua thư này!
 
-Chúng bạn có ngày làm việc vui vẻ cùng cơ sở dữ liệu!
+Chúng bạn có một ngày làm việc vui vẻ cùng cơ sở dữ liệu!
 
 Nhóm db4free.net
 https://www.db4free.net',

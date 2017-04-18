@@ -21,9 +21,9 @@ $translations = array(
 
     'error-data-change' => 'Dữ liệu không thay đổi.',
 
-    'success-account-delete' => 'Tài khoản dẵ bị xóa.',
+    'success-account-delete' => 'Tài khoản đã bị xóa.',
 
-    'error-account-delete' => 'Tài khoản không thể bị xóa.',
+    'error-account-delete' => 'Tài khoản không bị xóa.',
 
     'another-user-database' => 'Tên cơ sở dữ liệu đã được dùng bởi người khác: ',
 
@@ -33,13 +33,13 @@ $translations = array(
 
     'password-too-short' => 'Mật khẩu phải có ít nhất 6 ký tự.',
 
-    'only-2-db-allowed' => 'Chỉ có 2 cơ sở dữ liệu cho mỗi địa chỉ thư điện tử.',
+    'only-2-db-allowed' => 'Chỉ được đăng lý 2 cơ sở dữ liệu cho mỗi địa email.',
 
-    'email-invalid' => 'Địa chỉ thư điện tử không hợp lệ.',
+    'email-invalid' => 'Địa chỉ email không hợp lệ.',
 
     'user-not-exist' => 'Người dùng không tồn tại.',
 
-    'user-not-confirmed' => 'Người dùng chưa xác nhận thư xác minh.',
+    'user-not-confirmed' => 'Người dùng chưa xác nhận email xác minh.',
 
     'password-not-correct' => 'Mật khẩu không chính xác.',
 
@@ -49,7 +49,7 @@ $translations = array(
 
     'error-send-email' => 'Lỗi đã xảy ra việc trong khi gửi email xác nhận.',
 
-    'subject-signup' => 'Đăng ký cơ sở dữ liệu của bạn với  db4free.net',
+    'subject-signup' => 'Đăng ký cơ sở dữ liệu của bạn tại db4free.net',
 
     'subject-delete-account' => 'Xóa tài khoản db4free.net của bạn',
 
